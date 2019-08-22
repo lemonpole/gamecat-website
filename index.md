@@ -10,3 +10,5 @@
 
 🍎 Available for iOS only.<br />
 🤖 Android coming soon!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X211UMQ)

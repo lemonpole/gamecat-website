@@ -8,5 +8,5 @@
 ✅ Organize into categories such as: Playing, Wishlist, Finished, and Backlog.<br />
 
 
-🍏 Available for iOS only.<br />
+🍎 Available for iOS only.<br />
 🤖 Android coming soon!

@@ -17,5 +17,7 @@
 
 ### Support
 
+Hit up the [Help Center](https://srivera.atlassian.net/servicedesk/customer/portals) if you are running into any issues or have feedback.
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X211UMQ)
 .

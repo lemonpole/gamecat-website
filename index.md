@@ -11,7 +11,7 @@
 
 ### Download
 
-<a href="https://testflight.apple.com/join/652AfXFB"><img src="assets/ios.svg" width="120" /></a><br />
+<a href="https://apps.apple.com/us/app/gamecat-io/id1473064772"><img src="assets/ios.svg" width="120" /></a><br />
 <a href="https://play.google.com/store/apps/details?id=io.steverivera.gamecat"><img src="assets/android.png" width="120" /></a>
 
 
